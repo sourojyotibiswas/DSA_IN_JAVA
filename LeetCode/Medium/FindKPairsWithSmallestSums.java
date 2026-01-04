@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class FindKPairsWithSmallestSums {
-    // Java 8+
+    // Java 9+
     // public static List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
     //     List<List<Integer>> res = new ArrayList<>();
 
